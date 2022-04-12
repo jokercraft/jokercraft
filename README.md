@@ -3,8 +3,9 @@
 
 ## I'm a Software Engineer
 
-- My favorite and also most used programming language in Python
+- My favorite and also most used programming language is Python.
 - I have specialty in domains such as web development, data analysis, finance, blogging.
+- My current tech stack includes; Python, Django, DRF, Docker, MySQL, PostgreSQL, RabbitMQ, Reddis, Supervised Learning Algorithms.
 
 ---
 
